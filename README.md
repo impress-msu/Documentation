@@ -3,4 +3,4 @@ Github-pages with NestApp documentation. Webpages courtesy of automated dokka do
 
 
 _Testing_
-![Diagram](http://impress-msu.github.io/impress-msu.github.io/Draw-io%20Files/Nest%20Behavioral%20Diagrams%20Fall-2020.html)
+![Diagram](http://impress-msu.github.io/impress-msu.github.io/Draw-io%20Files/Nest%20Behavioral%20Diagrams%20Fall-2020.drawio)
