@@ -1,9 +1,0 @@
-$dokka.format:html
-$dokka.linkExtension:html
-
-com.example.nestapp.activities
-com.example.nestapp.adapters
-com.example.nestapp.fragments
-com.example.nestapp.models
-com.example.nestapp.network
-com.example.nestapp.utils
