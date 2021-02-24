@@ -17,17 +17,34 @@ Drawio diagrams:
 <br/>
 
 PLC:
+- [PLC Code Rev D](https://github.com/impress-msu/Documentation/blob/main/PLC/PLC_Code_RevD.pdf) - [Download](https://github.com/impress-msu/Documentation/raw/main/PLC/PLC_Code_RevD.pdf)
 
 <br/>
 
 Requirements documents:
 
+<br/>
 
-<!-- Links structured as
-https://app.diagrams.net/?chrome=0&gapi=0&db=0&
-url=https%3A%2F%2Fraw.githubusercontent.com%2Fimpress-msu%2FDocumentation%2Fmain%2F
-Drawio-Diagrams%2F
-Nest-Behavioral-Diagrams-Fall-2020.drawio
- -->
+<!-- PDF
+Links structure as:
 
-<!-- Notice: spaces in file or folder names are encoded as %2520 -->
+https://github.com/impress-msu/Documentation/
+{'blob' for view; 'raw' for download}
+/main/
+{Folder Path}/
+{File Name}.pdf
+
+Examples:
+https://github.com/impress-msu/Documentation/blob/main/PLC/PLC_Code_RevD.pdf
+https://github.com/impress-msu/Documentation/raw/main/PLC/PLC_Code_RevD.pdf
+-->
+
+<!-- Drawio 
+Links structured as:
+
+https://app.diagrams.net/?chrome=0&url={URL link when you click 'download' on GitHub}
+
+Example:
+https://app.diagrams.net/?chrome=0&url=
+https://raw.githubusercontent.com/impress-msu/Documentation/main/Drawio-Diagrams/Behavioral-Diagrams_Fall-2020.drawio
+-->
