@@ -11,8 +11,9 @@ Architecture diagrams:
 <br/>
 
 Drawio diagrams:
+- [Behavioral Diagrams Fall-2020](https://app.diagrams.net/?chrome=0&gapi=0&db=0&url=https%3A%2F%2Fraw.githubusercontent.com%2Fimpress-msu%2FDocumentation%2Fmain%2FDrawio-Diagrams%2FBehavioral-Diagrams_Fall-2020.drawio)
 - [Hardware Diagram](https://app.diagrams.net/?chrome=0&gapi=0&db=0&url=https%3A%2F%2Fraw.githubusercontent.com%2Fimpress-msu%2FDocumentation%2Fmain%2FDrawio-Diagrams%2FHardware-Diagram.drawio)
-- [Nest Behavioral Diagrams Fall-2020](https://app.diagrams.net/?chrome=0&gapi=0&db=0&url=https%3A%2F%2Fraw.githubusercontent.com%2Fimpress-msu%2FDocumentation%2Fmain%2FDrawio-Diagrams%2FBehavioral-Diagrams_Fall-2020.drawio)
+- [Mission Process Diagram](https://app.diagrams.net/?chrome=0&url=https://raw.githubusercontent.com/impress-msu/Documentation/main/Drawio-Diagrams/Mission-Process-Diagram.drawio)
 
 <br/>
 
